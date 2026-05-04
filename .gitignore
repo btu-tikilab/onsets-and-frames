@@ -4,3 +4,9 @@ __pycache__
 data
 runs
 
+.venv/
+*.mel.pt
+runs/
+output/
+*.zip
+sitecustomize.py
